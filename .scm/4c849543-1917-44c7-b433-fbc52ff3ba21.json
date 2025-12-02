@@ -1,0 +1,16 @@
+{
+  "Id": "4c849543-1917-44c7-b433-fbc52ff3ba21",
+  "Name": "Test24-1_Github",
+  "Type": "CtrlApplication.ME",
+  "DataVersion": "24.1",
+  "CreatedByApp": {
+    "Name": "Motion Control Application",
+    "Version": "24.1"
+  },
+  "LastModifiedByApp": {
+    "Name": "Motion Control Application",
+    "Version": "24.1"
+  },
+  "LastModifiedDate": "2025-12-02T16:49:05.7197162+01:00",
+  "AdditionalPayload": null
+}
